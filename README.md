@@ -2,12 +2,6 @@
 ![image](https://github.com/user-attachments/assets/7c5d274a-cfe1-45b0-a7e1-f88172e62679)
 
 
-
-
-
-
-
-
 # Blockchain-Based Library Management System
 
 ## Vision
