@@ -1,5 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/7c5d274a-cfe1-45b0-a7e1-f88172e62679)
+![image](https://github.com/user-attachments/assets/ef3409f9-1674-4e61-ab49-3351fed527c8)
+
 
 
 # Blockchain-Based Library Management System
@@ -85,7 +86,7 @@ contract Library {
 
 ## Contract Address
 
-- **Ethereum Contract Address:** 0x9f37a05fd08b347c351289f81881bc2dfb82ce47
+- **Educhain Contract Address:** 0x9f37a05fd08b347c351289f81881bc2dfb82ce47
 
 
 ![image](https://github.com/user-attachments/assets/15dd8d99-5853-46ba-8060-981f506b910c)
