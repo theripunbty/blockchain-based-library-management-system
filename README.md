@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/ef3409f9-1674-4e61-ab49-3351fed527c8" width="300">
+<img src="https://github.com/user-attachments/assets/ef3409f9-1674-4e61-ab49-3351fed527c8" width="200">
+
+
+
 # Blockchain-Based Library Management System
 
 ## Vision
