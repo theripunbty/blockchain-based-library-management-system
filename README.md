@@ -15,8 +15,7 @@
 The Blockchain-Based Library Management System aims to revolutionize the traditional library management system by leveraging blockchain technology. It provides a decentralized, transparent, and tamper-proof solution for managing book inventories. Users can interact with the system to add, issue, and return books, ensuring efficient management and real-time updates on the status of each book.
 
 ## Flowchart
-
-
+```
  +------------------+
  |   User Interface |
  +--------+---------+
@@ -39,7 +38,7 @@ The Blockchain-Based Library Management System aims to revolutionize the traditi
 | Add Book|    |Issue/Return|
 +---------+    |   Book     |
                +----------+
-
+```
 
 1. **Connect Wallet:** Users connect their Ethereum wallet to the application.
 2. **Interact with Smart Contract:** The system communicates with the deployed smart contract.
